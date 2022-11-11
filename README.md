@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?
-height=400&
-text=Hello%20in%20my%20world)
-
 # Hi there 👋
 ***my name is Ujjrgo 🤞***
 **I'm newbie**
